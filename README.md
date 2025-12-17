@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 😄 I'm Jieming Zheng,郑杰明 in chinese, and my English name is Lysias Cheng.
+- 😄 I'm Jieming Zheng,郑杰明 in Chinese, and my English name is Lysias Cheng.
 - 🌱 I'm currently developing [Vrdndi](https://github.com/leuas/Vrdndi/tree/main) -- a full-stack recommendation system.
 - 💼 I'm looking for a remote ML junior role or related role.
 - ❤️ I'm passionate about ML, python.  
