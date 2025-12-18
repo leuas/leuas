@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Journey 
 - 📚 From March - July 2025, I learned the mathematical foundation of ML via Math Academy.
-- 📖 From July - Sept 2025, I started to learn python and ML, mainly via *Introduction to Algorithms and Machine Learning* by Justin Skycak (Paper reproduction part is quite interesting btw) and *Understanding Deep Learning* by Simon J.D. Prince.
+- 📖 From July - Sept 2025, I started to learn python and ML, mainly via *Introduction to Algorithms and Machine Learning* by Justin Skycak and *Understanding Deep Learning* by Simon J.D. Prince.
 - 😇 From Oct 2025 - present, I'm developing [Vrdndi](https://github.com/leuas/Vrdndi/tree/main)
 
 
